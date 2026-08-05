@@ -12,7 +12,7 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
   title="MSSQL" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img
   align="left" 
@@ -20,7 +20,7 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
   title="MySQL" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
   align="left" 
@@ -28,7 +28,7 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
   title="PostgreSQL" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
   align="left" 
@@ -36,9 +36,9 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
   title="Python" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-![Excel](https://shields.io)
+
           
           
           
