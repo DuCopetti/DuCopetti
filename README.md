@@ -40,16 +40,16 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
 />
 <img 
   align="left" 
-  alt="Python"
-  title="Python" 
+  alt="Excel"
+  title="Excel" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"
 />
 <img 
   align="left" 
-  alt="Python"
-  title="Python" 
+  alt="Power BI"
+  title="Power BI" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"
