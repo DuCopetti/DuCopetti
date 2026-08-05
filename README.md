@@ -38,6 +38,7 @@ Olá! Me chamo Eduardo, tenho 32 anos, sou formado em Gastronomia pelo Senac e p
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
+![Excel](https://shields.io)
           
           
           
